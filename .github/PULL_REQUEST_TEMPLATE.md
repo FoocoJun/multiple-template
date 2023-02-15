@@ -1,6 +1,6 @@
 Please go the the `Preview` tab and select the appropriate sub-template:
 ## QA 관련 PR인 경우 `Preview`로 이동하여 눌러주세요.
-* [QA Template](?expand=1&template=qa_template.md)d
+* [QA Template](?expand=1&template=qa_template.md)
 
 ## Issue
 <!-- 처리한 이슈 url 주소 OR 이슈 번호-->
